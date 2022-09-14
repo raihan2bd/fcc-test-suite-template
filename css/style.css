@@ -1,0 +1,42 @@
+html {
+    font-size: 10px;
+  }
+  
+  body {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+  }
+  
+  @media (max-width: 460px) {
+    h1 {
+      font-size: 3.5rem;
+      line-height: 1.2;
+    }
+  }
+  
+  #main{
+    background-color: #eee;
+    border-radius: 5px;
+    margin: 30px 8px;
+  }
+ ul {
+    margin: 0 auto 50px auto;
+    text-align: left;
+ }
+ li{
+    margin: 16px 0;
+
+ }
+
+
+
+  
+  
